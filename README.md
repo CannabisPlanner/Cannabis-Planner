@@ -1,5 +1,25 @@
 Cannabis Planner
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/1.jpg" width="280"/>
+  <img src="screenshots/2.jpg" width="280"/>
+  <img src="screenshots/3.jpg" width="280"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/4.jpg" width="280"/>
+  <img src="screenshots/5.jpg" width="280"/>
+  <img src="screenshots/6.jpg" width="280"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/7.jpg" width="280"/>
+  <img src="screenshots/8.jpg" width="280"/>
+</p>
+
+
 Cannabis Planner is a simple, private, offline planning app that helps users organize and understand the different stages of a plant’s lifecycle — from seedling to harvest, drying, and curing.
 
 The app generates a structured day-by-day schedule based on user input and preferences. It is designed purely as a planning and logging tool.
