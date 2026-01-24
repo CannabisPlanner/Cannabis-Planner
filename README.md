@@ -3,19 +3,19 @@ Cannabis Planner
 ## Screenshots
 
 <p align="center">
-  <img src="images/1.jpg" width="280"/>
-  <img src="images/2.jpg" width="280"/>  
+  <img src="screenshot/1.jpg" width="280"/>
+  <img src="screenshot/2.jpg" width="280"/>  
 </p>
 
 <p align="center">
-  <img src="images/3.jpg" width="280"/>
-  <img src="images/4.jpg" width="280"/>
+  <img src="screenshot/3.jpg" width="280"/>
+  <img src="screenshot/4.jpg" width="280"/>
 </p>
 
 <p align="center">
-  <img src="images/5.jpg" width="280"/>
-  <img src="images/6.jpg" width="280"/>
-  <img src="images/7.jpg" width="280"/>
+  <img src="screenshot/5.jpg" width="280"/>
+  <img src="screenshot/6.jpg" width="280"/>
+  <img src="screenshot/7.jpg" width="280"/>
 </p> 
 
 
