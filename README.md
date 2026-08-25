@@ -50,8 +50,8 @@ An all-in-one, privacy-focused open-source grow tracker and environmental monito
 
 ## 🚀 Getting Started
 
-1. Download the latest `.apk` from the [Releases](../../releases) tab or get it on Google Play.
-2. Pair your BLE or ESP32 sensor in the **Environment** tab.
+1. Download the app directly from [Google Play Store](https://play.google.com/store/apps/details?id=com.ivangospocic.cannabisplanner).
+2. Pair your BLE or ESP32 sensor in the Environment tab.
 3. Add your first plant, set your pot size and feeding plan, and start logging!
 
 ---
@@ -62,6 +62,7 @@ Contributions, bug reports, and feature requests are welcome! Feel free to open 
 
 ---
 
-## 📄 License
+## 🔒 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Copyright (c) 2026. All rights reserved.
+Copying, modifying, and selling this code for commercial purposes is strictly prohibited without the explicit permission of the author.
