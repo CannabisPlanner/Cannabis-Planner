@@ -1,52 +1,68 @@
-🌱 Cannabis Planner
+# 🌿 Cannabis Planner
 
-Cannabis Planner is a simple, private, and fully offline planning app designed to help users organize and understand the different stages of a plant’s lifecycle — from seedling to harvest, drying, and curing.
+An all-in-one, privacy-focused open-source grow tracker and environmental monitor. Built for both hydro and organic growers (Living Soil) to track plant lifecycles, automate nutrient calculations, and monitor real-time microclimate sensors via Bluetooth / ESP32.
 
-The app generates a structured, day-by-day schedule based on user input and preferences. It is designed purely as a planning and logging tool, with no automation, tracking, or online services.
+---
 
-## Screenshots
+## 📱 Screenshots
 
-<p align="center">
-  <img src="screenshot/1.png" width="280"/>
-  <img src="screenshot/2.png" width="280"/> 
-  </p>
-
-<p align="center">
-   <img src="screenshot/3.png" width="280"/>
-   <img src="screenshot/4.png" width="280"/>
+<p float="left">
+  <img src="1.png" width="200" alt="Plant Overview" />
+  <img src="2.png" width="200" alt="Live Environment" />
+  <img src="3.png" width="200" alt="Feeding Plan" />
+  <img src="4.png" width="200" alt="Climate Analytics" />
 </p>
 
-<p align="center">
-  <img src="screenshot/5.png" width="280"/>
-  <img src="screenshot/6.png" width="280"/>
- </p> 
+*(Zamijeni URL-ove slika s vlastitim linkovima s GitHuba)*
 
+---
 
+## ✨ Key Features
 
+### 💧 Smart Nutrient & Dose Calculation
+* **Automated Dosing:** Computes exact nutrient volumes (ml and ml/L) based on pot size, target water volume, and specific feeding schedules.
+* **Multi-Schedule Support:** Built-in profiles for popular nutrient lines (General Hydroponics, FoxFarm, BioBizz, Living Soil / Organic setups, etc.).
+* **Organic & Stage Guidance:** Phase-specific suggestions (e.g., PPFD targets, light intensity, dryness cycles, biological soil support like Vermicompost).
 
+### 📡 Real-Time Live Environment Monitoring
+* **Bluetooth (BLE) & ESP32 Integration:** Connect directly to DIY sensors or BLE environmental monitors.
+* **Climate Metrics:** Live track **Temperature**, **Relative Humidity (RH)**, **Air VPD**, **Dew Point**, and **DLI**.
+* **Soil Health Tracking:** Monitor **Soil Moisture (%)** and **Soil EC** in real time.
+* **Target Ranges:** Visual color indicators (Green = Optimal, Red/Orange = Out of range) based on targeted growth stages.
 
-✨ Features
+### 📊 Advanced Climate Analytics
+* **Historical Charts:** Detailed interactive charts for temperature and humidity trends over time.
+* **Fullscreen / Landscape Mode:** Rotate device for expanded chart analysis.
 
-Supports autoflower & photoperiod plants
+### 📅 Lifecycle & Moon Phase Tracking
+* **Stage Tracking:** Full support for autoflower and photoperiod strains across all stages (Seedling, Veg, Flower, Flush, Drying, Curing).
+* **Lunar Calendar:** Built-in Moon Phase integration to align feedings with lunar cycles.
+* **Journaling:** Daily photo logs, notes, and progress tracking.
 
-Adjustable phase durations (Seedling → Grow → Flower → Flush → Drying → Curing)
+---
 
-Track multiple plants independently
+## 🛡️ Privacy First
 
-Phase-colored daily schedule for clear visual planning
+* **100% Offline:** All data stays on your device.
+* **No Cloud Sync or Accounts:** No registration required.
+* **No Analytics or Tracking:** Zero telemetry or data collection.
 
-Daily notes & observations
+---
 
-Works 100% offline — no accounts, no syncing
+## 🚀 Getting Started
 
-No ads, no tracking, no analytics
+1. Download the latest `.apk` from the [Releases](../../releases) tab or get it on Google Play.
+2. Pair your BLE or ESP32 sensor in the **Environment** tab.
+3. Add your first plant, set your pot size and feeding plan, and start logging!
 
-🔒 Privacy
+---
 
-All data is stored locally on the user’s device only.
-The app does not collect, transmit, or store any personal or usage data.
+## 🤝 Contributing
 
-⚠️ Disclaimer
+Contributions, bug reports, and feature requests are welcome! Feel free to open an issue or submit a pull request.
 
-This application is intended for educational and planning purposes only.
-Users are responsible for complying with all local laws and regulations applicable in their region.
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
