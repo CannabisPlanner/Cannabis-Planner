@@ -13,7 +13,6 @@ An all-in-one, privacy-focused open-source grow tracker and environmental monito
   <img src="4.png" width="200" alt="Climate Analytics" />
 </p>
 
-*(Zamijeni URL-ove slika s vlastitim linkovima s GitHuba)*
 
 ---
 
